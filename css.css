@@ -44,5 +44,22 @@ background-color: #212411;
 background-color: #9494942c;
 border-radius: 5px;
 padding: 12px;
+max-width: 500px;
+min-height: 400px;
 }
 
+.button-column {
+width: 30%;
+vertical-align: middle;
+text-align: center;
+}
+
+
+.botonr {
+background-color: #234252;
+color: #ffffff;
+border: 1px solid #10263b;
+padding: 10px 25px;
+font-size: 9px;
+font-style: arial;
+}
