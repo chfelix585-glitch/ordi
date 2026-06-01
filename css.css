@@ -36,6 +36,10 @@ font-weight: 500;
 display: block;
 }
 
+.tabla { 
+text-align:left
+}
+
 .nmenu td:hover {
 background-color: #212411;
 }
@@ -63,3 +67,8 @@ padding: 10px 25px;
 font-size: 9px;
 font-style: arial;
 }
+.titulo{
+    background-color: #ffffff;
+    max-width: 450;
+    min-height: 50px;
+text-align:left;}
