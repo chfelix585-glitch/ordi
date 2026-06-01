@@ -1,0 +1,52 @@
+body {
+margin: 0;
+padding: 20px;
+font-family: Arial, sans-serif;
+min-height: 100vh;
+}
+
+.contenedor {
+max-width: 900px;
+margin: 0 auto;
+padding: 10px;
+}
+
+.nmenu {
+width: 100%;
+color: #000000;
+border-collapse: collapse;
+margin-bottom: 40px;
+box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.nmenu td {
+width: 20%;
+text-align: center;
+background-color: #815131;
+border: 1px solid #000000;
+padding: 12px 0;
+}
+
+
+.nmenu td.active {
+background-color: #946f40;
+}
+
+.nmenu a {
+color: #ffffff;
+text-decoration: none;
+font-size: 16px;
+font-weight: 500;
+display: block;
+}
+
+.nmenu td:hover {
+background-color: #212411;
+}
+
+.fondo {
+background-color: #9494942c;
+border-radius: 5px;
+padding: 12px;
+}
+
